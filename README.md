@@ -44,7 +44,7 @@ To be able to use this web app locally in a development environment you will nee
 git clone https://github.com/PrinceNathan27/Netflix-Recommendation-System.git
 
 # Go into the repository
-cd netflix-recommendation-system
+cd Netflix-Recommendation-System
 
 # Install requirements (if you already haven't)
 pip install -r requirements.txt
