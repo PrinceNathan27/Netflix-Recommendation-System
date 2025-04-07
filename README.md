@@ -41,7 +41,7 @@ To be able to use this web app locally in a development environment you will nee
 
 ```cmd
 # Clone this repository
-git clone https://github.com/Darshan1412/Netflix-Recommendation-System-ML-Project.git
+git clone https://github.com/PrinceNathan27/Netflix-Recommendation-System.git
 
 # Go into the repository
 cd netflix-recommendation-system
@@ -55,33 +55,15 @@ pip install -r requirements.txt
 4) You can run the Netflix React App using the following command from your terminal:
 
 ```
-# Run the app
->>set FLASK_APP=app.py
+# Run the app - For windows use 'set' for mac use 'export'
+>>set FLASK_APP=app.py 
 >>flask run
 ```
 
-# TeamMates
-
-👤 **Darshan Jain**
-- Github: https://github.com/Darshan1412
-- Linkedin: https://www.linkedin.com/in/Darshan-Jain1/
-- Email: darshanjain768@gmail.com
-
-👤 **Cryus Coutinho**
-- Github: https://github.com/CyrusCoutinho
-- Linkedin: https://www.linkedin.com/in/cyrus-coutinho-4b406b20a/
-- Email: cyruscoutinho77@gmail.com
-
-👤 **Elston Farel**
-- Github: https://github.com/ElstonFarel
-- Linkedin: https://www.linkedin.com/in/elston-farel-019a821a7/
-- Email: elstonfarel@gmail.com
-
-👤 **Seona Dabre**
-- Github: 
-- Linkedin: https://www.linkedin.com/in/seona-dabre-3b0666248/
-- Email: dabreseona18@gmail.com
-
+👤 **Prince Nathan**
+- Github: https://github.com/PrinceNathan27
+- Linkedin: https://www.linkedin.com/in/princenathan
+- Email: princenathan27@gmail.com
 
 
 # Show Your Support 
