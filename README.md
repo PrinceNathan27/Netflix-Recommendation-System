@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 # Run the app - For windows use 'set' for mac use 'export'
 >>set FLASK_APP=app.py 
->>flask run
+>>Flask run
 ```
 
 👤 **Prince Nathan**
