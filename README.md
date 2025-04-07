@@ -49,6 +49,9 @@ cd Netflix-Recommendation-System
 # Install requirements (if you already haven't)
 pip install -r requirements.txt
 
+# Go into the app folder
+cd app
+
 ```
 3) To run this application you don't need to have any special configuration but make sure you don't change the directory of the project otherwise you can recieve errors while you try to run the app.
 
